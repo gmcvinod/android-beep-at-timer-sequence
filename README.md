@@ -18,8 +18,8 @@ default sequence file:
 
 *:breathing exercise:0:0:1:4:2
 -:1sec beep:0:0:1:%
--:breathing exercise:0:0:1
--:plank:1:2:3
+-:plank once:0:0:1
+-:plank twice:1:2
 
 1. main screen: start/stop/pause;repeat counter; history box; clear button; settings button; log to file [start time/date, repeat counter;] current active sequence
 2. add/edit/manage sequence screen; set active
